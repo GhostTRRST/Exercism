@@ -1,3 +1,3 @@
 # Exercism
 
-Excercism asignments for PTECH
+Excercism assignments for PTECH
